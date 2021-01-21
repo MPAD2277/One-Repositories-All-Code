@@ -4,4 +4,4 @@ setInterval(async () => {
 
   await fetch('Your glitch project live page URL here').then(console.log('Pinged! (customizable)'))
 
-}, 180000)
+}, 7)
